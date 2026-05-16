@@ -1,0 +1,1 @@
+# Further-training-of-the-diffusion-model-on-the-Cheburashka-concept
